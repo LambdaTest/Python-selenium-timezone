@@ -5,17 +5,23 @@
   <a href="https://community.testmuai.com/"><img src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&labelColor=000000" alt="Community"></a>
 </p>
 
-
 ## Getting Started
 
-If you want to run your automation test for a particular timezone in Python-selenium on TestMu AI (Formerly LambdaTest), you can use the following steps. You can refer to sample test repo [here](https://github.com/LambdaTest/python-selenium-sample).
+[TestMu AI](https://www.testmuai.com/) (Formerly LambdaTest) is the world's first full-stack AI Agentic Quality Engineering platform that empowers teams to test intelligently, smarter, and ship faster. Built for scale, it offers a full-stack testing cloud with 10K+ real devices and 3,000+ browsers. With AI-native test management, MCP servers, and agent-based automation, TestMu AI supports Selenium, Appium, Playwright, and all major frameworks.
 
-Sign up for a free account at [TestMu AI](https://www.testmuai.com) and visit the [documentation](https://www.testmuai.com/support/docs/selenium-automation-capabilities/) to get started.
+With TestMu AI (Formerly LambdaTest), you can run Python Selenium Timezone Tests across real browsers and operating systems.
+
+- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
+- Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
+
+### Prerequisites
+
+- Python 3.x and pip
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
 
 # Steps:
 
 To run your automation test for a particular timezone, you can change the timezone using the 'timezone' capability. For example, setting timezone to "UTC-5:00":
-
 
 ```python
 desired_caps = {
