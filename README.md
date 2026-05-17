@@ -19,6 +19,11 @@ With TestMu AI (Formerly LambdaTest), you can run Python Selenium Timezone Tests
 - Python 3.x and pip
 - A TestMu AI (Formerly LambdaTest) account with your username and access key
 
+### Prerequisites
+
+- Python 3.x and pip
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
 # Steps:
 
 To run your automation test for a particular timezone, you can change the timezone using the 'timezone' capability. For example, setting timezone to "UTC-5:00":
